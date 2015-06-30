@@ -1,0 +1,559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"fore",
+				"foreach  (keyword)"
+			],
+			[
+				"u",
+				"uasort"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"for",
+				"for	for"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/PHP.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"addbr",
+				"Xdebug: Add/Remove Breakpoint"
+			],
+			[
+				"sta",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"deb",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"stop",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"inpa",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"pains",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/02-sum-of-all-values",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/03-affine-cipher",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/04-book-store"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/.idea/misc.xml",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/.idea/Exam 21 December 2014.iml",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/.idea/encodings.xml",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/.idea/.name",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/Exam 21 December 2014.sublime-project",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/02-sum-of-all-values/02-sum-of-all-values.php",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/01-user-name-parser/01-user-name-parser.php",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/03-affine-cipher/03-affine-cipher.php",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/04-book-store/04-book-store.php",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/01-user-name-parser/01. Username Parser_HTML.html",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/03-affine-cipher/03. Affine Cipher_HTML.html",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/04-book-store/04. Book Store_HTML.html",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/02-sum-of-all-values/02. Sum of All Values_HTML.html",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/01-user-name-parser.php",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/01. Username Parser_HTML.html",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/tests.txt",
+		"/Applications/MAMP/htdocs/Exam 21 December 2014/form-template.html",
+		"/Applications/MAMP/htdocs/PHP Basics - Sample Exam (Variant 3)/01-computer-smuggler.php",
+		"/Applications/MAMP/htdocs/PHP Basics - Sample Exam (Variant 3)/01-computer-smuggler.html",
+		"/Users/Strahil/Library/Application Support/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/Users/Strahil/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/Users/Strahil/Library/Application Support/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/Applications/MAMP/htdocs/PHP Basics - Sample Exam (Variant 3)/PHP Sample Exam Variant 3.sublime-project",
+		"/Users/Strahil/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-build",
+		"/Users/Strahil/Library/Application Support/Sublime Text 3/Packages/User/PHP in MAMP.sublime-build",
+		"/Users/Strahil/Library/Application Support/Sublime Text 3/Packages/User/Run PHP in Safari.sublime-build",
+		"/Users/Strahil/Library/Application Support/Sublime Text 3/Packages/User/Safari.sublime-build",
+		"/Users/Strahil/Library/Application Support/Sublime Text 3/Packages/User/browsers.sublime-build",
+		"/Users/Strahil/Library/Application Support/Sublime Text 3/Packages/User/safari.sublime-build",
+		"/Applications/MAMP/htdocs/test.php",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/PHP Basics/exam preparation/PHP Basics Exam 29.08.2014 (morning)/Problem-3-Article-Parser/ArticleParser.php",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/PHP Basics/exam preparation/PHP Basics Exam 29.08.2014 (evening)/Problem-3-Largest-Rectangle/LargestRectangle.php",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/PHP Basics/exam preparation/PHP-Basics-Exam-31-August-2014/Problem-1-Text-Abbreviator/TextAbbreviator.php",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/PHP Basics/exam preparation/PHP-Basics-Exam-31-August-2014/Problem-2-Semantic-HTML/SemanticHTML.php",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/PHP Basics/exam preparation/PHP-Basics-Exam-31-August-2014/Problem-3-Text-Gravity/TextGravity.php",
+		"/Users/Strahil/Downloads/03-text-gravity.php",
+		"/Users/Strahil/Downloads/03. Article Parser_Авторско решение.php",
+		"/Users/Strahil/Downloads/02. Chat Logger_Авторско решение.php",
+		"/Applications/MAMP/bin/php/php5.6.2/conf/php.ini",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/PHP Basics/lectures/2/04. TakePostRequest.php",
+		"/Users/Strahil/Downloads/10/CSS-Animations.css",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Homework/10-SASS-CSS-Transformations-Homework/test.css",
+		"/Users/Strahil/Downloads/9/1. responsive-design.html",
+		"/Users/Strahil/Documents/Swift Practice/orders.txt",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Homework/04-Homework-HTML-Tables/07-calculator.html",
+		"/Users/Strahil/Downloads/wordpress/index.php",
+		"/Users/Strahil/Documents/Swift Practice/products.txt",
+		"/Users/Strahil/Documents/Swift Practice/Java HW3 Problem 08.playground/Resources/input.txt",
+		"/Users/Strahil/Documents/Swift Practice/input.txt",
+		"/Users/Strahil/Documents/Swift Practice/Java HW3 Problem 03.playground/section-1.swift",
+		"/Users/Strahil/Documents/Visual Studio 2013/Projects/02. HTML Tables/02. HTML Tables/03-nested-tables.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Teamwork and Personal Skills/Project Tracking Tools",
+		"/Applications/WebStorm.app/Contents/Info.plist",
+		"/Users/Strahil/Downloads/Homework-М",
+		"/Users/Strahil/Documents/workspace/Intro-Java-Homework/run-jar-file.sh",
+		"/Users/Strahil/Documents/workspace/Intro-Java-Homework/create-jar-file.sh",
+		"/Users/Strahil/Documents/workspace/homework1/src/Problem9_GeneratePDFByExternalLibrary/Problem9.java",
+		"/Users/Strahil/Documents/workspace/homework1/src/Problem9_GeneratePDFByExternalLibrary/Card.java",
+		"/Users/Strahil/Documents/workspace/homework1/src/Problem8_SortArrayOfStrings/Problem8.java",
+		"/Users/Strahil/Documents/workspace/homework1/src/Problem5_CurrentDateAndTime/Problem5.java",
+		"/Users/Strahil/Downloads/Stuck Numbers_Авторско решение.java",
+		"/Users/Strahil/Downloads/3. Java-Loops-Methods-Classes-Demos/src/_11_JavaAPIClasses.java",
+		"/Users/Strahil/Downloads/3. Java-Loops-Methods-Classes-Demos/src/_12_HandlingExceptions.java",
+		"/Users/Strahil/Downloads/3. Java-Loops-Methods-Classes-Demos/src/_13_TryWithResources.java",
+		"/Users/Strahil/Downloads/4. Java-Collections-Basics-Demos/src/_06_RegularExpressions.java",
+		"/Users/Strahil/Downloads/Straight Flush_Авторско решение.java",
+		"/Users/Strahil/Documents/workspace/SX/2007/OpenXML.java",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/7/10. Styling-Forms.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/7/10. Styling-Forms.css",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/4/1. Form-Input-Fields.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/6. CSS-Overview-Demos/2.3. styles.css",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/4/6. Method-POST.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/4/5. Method-GET.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/4/4. Reversed-Tab-Index.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/4/3. Forms-Validation.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/4/2. Sliders-and-Spinboxes.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/7/9. Styling-Lists.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/3/6. Table-Colspan-Rowspan.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/3/5. Table-Cells-Spacing-Padding.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/3/4. Nested-Tables.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/3/3. Complete-Tables.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Homework/01. HTML5 Overview/test.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/3/1. Simple-Tables.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Examples/3/2. Data-and-Header-Cells.html",
+		"/Users/Strahil/Documents/Dropbox/Personal/SoftUni/Web Fundamentals/Homework/01. HTML5 Overview/test"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"function_name_status_row": 0,
+							"incomplete_sync": null,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"project": "Exam 21 December 2014.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				".idea/misc.xml"
+			],
+			[
+				"04",
+				"04-book-store/04-book-store.php"
+			],
+			[
+				"03",
+				"03-affine-cipher/03-affine-cipher.php"
+			],
+			[
+				"02",
+				"02-sum-of-all-values/02-sum-of-all-values.php"
+			],
+			[
+				"01",
+				"01-user-name-parser/01-user-name-parser.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
